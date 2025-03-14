@@ -1,0 +1,37 @@
+repositories:
+  ac_sdk/ros2_ac_sdk_infra:
+    type: git
+    url: git@github.com:RoboSense-Robotics/ros2_ac_sdk_infra.git
+    version: main
+  ac_sdk/slam:
+    type: git
+    url: git@github.com:RoboSense-Robotics/slam.git
+    version: main
+  ac_sdk/perception:
+    type: git
+    url: git@github.com:RoboSense-Robotics/perception.git
+    version: main
+  ac_sdk/postprocess:
+    type: git
+    url: git@github.com:RoboSense-Robotics/postprocess.git
+    version: main
+  ac_sdk/localization:
+    type: git
+    url: git@github.com:RoboSense-Robotics/localization.git
+    version: main
+  ac_sdk/calibration:
+    type: git
+    url: git@github.com:RoboSense-Robotics/calibration.git
+    version: main
+  ac_sdk/rs_monitor:
+    type: git
+    url: git@github.com:RoboSense-Robotics/rs_monitor.git
+    version: main
+  ac_sdk/calibration_extrinsic:
+    type: git
+    url: git@github.com:RoboSense-Robotics/calibration_extrinsic.git
+    version: main
+  ac_sdk/rs_collect:
+    type: git
+    url: git@github.com:RoboSense-Robotics/rs_collect.git
+    version: main
