@@ -1,4 +1,4 @@
-[中文文档](http://10.10.0.20/super_sensor_sdk/ros2_sdk/sdk_infra/-/blob/main/README_CN.md)
+[中文文档](https://github.com/RoboSense-Robotics/robosense_ac_studio/blob/main/README_CN.md)
 
 ## 1. Introduction
 

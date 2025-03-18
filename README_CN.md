@@ -1,4 +1,4 @@
-[README](http://10.10.0.20/super_sensor_sdk/ros2_sdk/sdk_infra/-/blob/main/README.md)  \- English Version of the README
+[README](https://github.com/RoboSense-Robotics/robosense_ac_studio/blob/main/README.md)  \- English Version of the README
 
 ## 1. 简介
 
@@ -38,7 +38,7 @@ repositories:
 
 ## 3. 构建&运行
 
-请参照各个仓库中README文件操作方式编译与运行
+请参照各个仓库中README文件操作方式编译与运行方式操作。
 
 
 
