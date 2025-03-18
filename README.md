@@ -24,7 +24,7 @@ Create `colcon` workspace
 mkdir -p ~/ros2_humble/src
 ```
 
-Get source code, and default full code,
+Get source code, and default full code.For details about how to download the vcs tool, see 2.1 ros2 Installation Guide.
 
 ```shell
 cd ros2_humble

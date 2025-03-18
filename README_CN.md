@@ -18,7 +18,7 @@
 mkdir -p ~/ros2_humble/src
 ```
 
-获取源代码，默认全量代码，
+获取源代码，默认全量代码。用到的vcs工具下载请参照2.1 ros2的安装指南介绍。
 
 ```shell
 cd ros2_humble
