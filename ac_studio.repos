@@ -33,9 +33,9 @@ repositories:
     version: main
   ac_studio/robosense_collect:
     type: git
-    https://github.com/RoboSense-Robotics/robosense_collect.git
+    url: https://github.com/RoboSense-Robotics/robosense_collect.git
     version: main
   ac_studio/robosense_ac_3dgs:
     type: git
-    https://github.com/RoboSense-Robotics/robosense_ac_3dgs.git
+    url: https://github.com/RoboSense-Robotics/robosense_ac_3dgs.git
     version: main
