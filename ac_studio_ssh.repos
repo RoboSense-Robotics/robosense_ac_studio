@@ -1,0 +1,41 @@
+repositories:
+  ac_studio/robosense_ac_ros2_sdk_infra:
+    type: git
+    url: git@github.com:RoboSense-Robotics/robosense_ac_ros2_sdk_infra.git
+    version: main
+  ac_studio/robosense_ac_slam:
+    type: git
+    url: git@github.com:RoboSense-Robotics/robosense_ac_slam.git
+    version: main
+  ac_studio/robosense_ac_perception:
+    type: git
+    url: git@github.com:RoboSense-Robotics/robosense_ac_perception.git
+    version: main
+  ac_studio/robosense_ac_postprocess:
+    type: git
+    url: git@github.com:RoboSense-Robotics/robosense_ac_postprocess.git
+    version: main
+  ac_studio/robosense_localization:
+    type: git
+    url: git@github.com:RoboSense-Robotics/robosense_localization.git
+    version: main
+  ac_studio/robosense_ac_calibration:
+    type: git
+    url: git@github.com:RoboSense-Robotics/robosense_ac_calibration.git
+    version: main
+  ac_studio/robosense_monitor:
+    type: git
+    url: git@github.com:RoboSense-Robotics/robosense_monitor.git
+    version: main
+  ac_studio/robosense_calibration_extrinsic:
+    type: git
+    url: git@github.com:RoboSense-Robotics/robosense_calibration_extrinsic.git
+    version: main
+  ac_studio/robosense_collect:
+    type: git
+    git@github.com:RoboSense-Robotics/robosense_collect.git
+    version: main
+  ac_studio/robosense_ac_3dgs:
+    type: git
+    git@github.com:RoboSense-Robotics/robosense_ac_3dgs.git
+    version: main
