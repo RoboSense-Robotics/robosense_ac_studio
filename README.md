@@ -4,12 +4,6 @@
 
 This warehouse mainly stores AC1 super sensor repo multi-warehouse management warehouse files. Through this warehouse, the drivers, algorithms, tools and other warehouses provided by AC_Studio can be fully pulled, which is convenient for warehouse pulling and management.
 
-### 1.1 ros_metas module
-
-ros2_metas is the ROS middleware node for the metaS driver, which is used to receive sensor data from metaS, integrate the data, and then publish it for use by other nodes. This includes data from three sources: camera, lidar, and IMU.
-
-
-
 ## 2. Prerequisites
 
 ### 2.1 Install ROS2
